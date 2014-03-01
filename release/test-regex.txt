@@ -1,14 +1,9 @@
 ((aUb)*a)U((aUb)*(b*))
 
-
 ((ab)*a)U((ba)*b)U((abc)*c)
 
 (ab)*cU(bc)*aU(ca)*b
 
-
-
-
-[3x]
 a(aUbUcUd)*b(aUbUcUd)*c(aUbUcUd)*d
 
 (((((a*b)*)c)*)d)*
