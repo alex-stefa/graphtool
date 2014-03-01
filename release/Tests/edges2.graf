@@ -1,0 +1,46 @@
+1
+8
+16
+1
+1
+0#239,8082#307,6923##
+1#719,4245#461,5385##
+2#345,8824#641,1043##
+3#665,8823#803,681##
+4#472,9412#846,6258##
+5#115,2941#592,0245##
+6#256,4706#843,5583##
+7#183,5294#751,5338##
+0#0#0##
+1#0#1##
+2#0#1##
+3#1#0##
+4#1#2##
+5#2#0##
+6#3#1##
+7#4#3##
+8#3#4##
+9#4#2##
+10#2#5##
+11#5#0##
+12#0#5##
+13#2#6##
+14#2#7##
+15#7#6##
+0
+
+Saved on: 04.01.2008 04:00:00
+
+/*
+* Structure of a valid '.graf' or '.txt' file:
+* 
+* 1st line: 0|1 - orientation (1 for oriented)
+* 2nd line: <nr of vertices>
+* 3rd line: <nr of edges>
+* 4th line: <nr of finish points>
+* 5th line: <index of start point (base 0; -1 for none)> 
+* next <nr of vertices> lines: <vertex index (base 0)> '#' <vertex X wrt 1000> '#' <vertex Y wrt 1000> '#' <vertex name> '#'
+* next <nr of edges> lines: <edge index (base 0)> '#' <source vertex index (base 0)> '#' <destination vertex index (base 0)> '#' <edge name> '#'
+* next <nr of finish points> lines: <vertex index (base 0)>
+* 
+*/
