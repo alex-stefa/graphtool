@@ -18,7 +18,7 @@ Download [the binary](release/GraphTool.exe) and check out the sources for [exam
 
 ![screen-automata](wiki/screen-automata.png)
 
-![screen-graphs](screen-graphs.png)
+![screen-graphs](wiki/screen-graphs.png)
 
 ---
 exported from https://code.google.com/archive/p/graphtool/
